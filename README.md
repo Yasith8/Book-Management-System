@@ -13,6 +13,6 @@ In Java Data Type have 2 data types
   *In the premitive data type you can use  Boolean, Char, Byte, Short, Integer, Long, Float and Double
   
      Boolean         Char         Byte          Short         Integer        Long       Float       Double
-  True / False       16bit        8bit          16bit          32bit         64bit      32bit       64bit
+  True / False   |   16bit        8bit          16bit          32bit         64bit      32bit       64bit
   
   *In Non Premitive Data type you can use  Array, Class, String
